@@ -1,0 +1,25 @@
+[33mcommit 9b355747eacf6bc43087554fef7a0438a4079de6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Felipe Enriquez EPAM <felipe_enriquez@epam.com>
+Date:   Thu May 22 13:06:07 2025 -0500
+
+    Add two lines and changes in the ReadMe File.
+
+[33mcommit 258e6fccd85dae9047a20b661b32bcce172f626c[m
+Author: Felipe Enriquez <felipe_enriquez@epam.com>
+Date:   Tue May 20 23:25:58 2025 -0500
+
+    Update song.txt
+    
+    add two lines to the song
+
+[33mcommit 3cea73614ffde260ca58300c9e6db5cda8b044d2[m
+Author: Felipe Enriquez EPAM <felipe_enriquez@epam.com>
+Date:   Tue May 20 23:21:52 2025 -0500
+
+    add first two lines
+
+[33mcommit 5c135f2a6ce885a8bd24b5c8205b4ea31f464935[m
+Author: Felipe Enriquez <felipe_enriquez@epam.com>
+Date:   Tue May 20 14:21:12 2025 -0500
+
+    Initial commit
