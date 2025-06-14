@@ -3,7 +3,12 @@ wall of shields
 standing strong
 on this their chosen battle field
 
+<<<<<<< HEAD
  1
  2
  3
  4
+=======
+From the lines
+Shield by shield
+>>>>>>> 5018568fdc4b2c0e1a1fc079866deaed0bce7590
